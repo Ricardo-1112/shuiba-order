@@ -8,15 +8,15 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
   },
   "devDependencies": {
-    "@tailwindcss/postcss": "^4.1.17",
-    "autoprefixer": "^10.4.22",
-    "postcss": "^8.5.6",
+    "vite": "^7.2.2",
     "tailwindcss": "^3.3.3",
-    "vite": "^7.2.2"
+    "autoprefixer": "^10.4.14",
+    "@tailwindcss/postcss": "^2.0.0",
+    "postcss": "^8.4.28"
   },
   "engines": {
     "node": ">=18.0.0"
