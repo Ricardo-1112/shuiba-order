@@ -15,7 +15,6 @@
     "vite": "^7.2.2",
     "tailwindcss": "^3.3.3",
     "autoprefixer": "^10.4.14",
-    "@tailwindcss/postcss": "^2.0.0",
     "postcss": "^8.4.28"
   },
   "engines": {
